@@ -16,3 +16,11 @@ criado a estrutura inicial.
 ( https://gitmoji.dev/ )
 ( https://github.com/carloscuesta/gitmoji )
 usando o comando : ( npm i -g gitmoji-cli )
+
+tem que iniciar o gitmoji no repositorio no git com o comando:
+( gitmoji -i )
+
+no terminal gitbash é bem ruim 
+ficou menos ruim no windows terminal 
+
+nem sei se vou conseguir usar isto até o final. :(
